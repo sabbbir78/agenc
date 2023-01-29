@@ -1,0 +1,217 @@
+@media (min-width: 320px) and (max-width: 575.98px) { 
+    /* navbar- css start */
+   .navbar .navbar-toggler i{
+    color: #fff;
+   }
+   .navbar-toggler{
+    border: 1px solid #fff;
+   }
+   .navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow: none;
+}
+.navbar {
+	padding-left: 10px;
+	padding-right: 10px;
+	background: rgb(195, 223, 9);
+	padding-top: 12px;
+    padding-bottom: 12px;
+    position: static;  
+}
+   .navbar-expand-lg .navbar-nav .nav-link {
+	margin-right: 0px;
+}
+.navbar-nav{
+    text-align: center;
+}
+.nav-btn{
+    display: none;
+}
+/* banner-css start */
+.banner-text h1{
+    font-size: 35px;
+}
+.banner-text p{
+    width: auto;
+    font-size: 15px;
+    padding-left: 4px;
+    padding-right: 4px;
+
+}
+#banner-section{
+    padding-top:105px;
+    padding-bottom: 100px;
+}
+.banner-btn button {
+	padding: 12px 35px;
+	font-size: 16px;
+}
+/* success-css start */
+#success-section {
+	padding-top: 30px;
+	padding-bottom: 56px;
+}
+.success-counter{
+    padding-left:0px;
+}
+.counter-one{
+	text-align: center;
+}
+.counter-one p {
+	font-size: 21px;
+	line-height: 29px;
+	padding-top: 10px;
+}
+.counter-two{
+    text-align: center;
+    padding-top: 10px;
+  
+}
+.counter-two h3{
+font-size: 35px;
+}
+.counter-two p{
+    font-size: 16px;
+    line-height: 90%;
+}
+.common-title h3 {
+	font-size: 35px;
+    line-height: 33px;
+	text-align: center;
+}
+.common-title p {
+	font-size: 13px;
+	line-height: 24px;
+	text-align: center;
+	padding: 0px 10px;
+}
+.service-item {
+    margin: 13px;
+}
+.service-item {
+	padding: 39px 49px 46px;
+
+}
+.service-item h3 {
+	font-size: 20px;
+	padding-top: 22px;
+    padding-bottom: 2px;
+}
+.service-item {
+    font-size: 13px;
+}
+.service-item img{
+    width: 30%;
+}
+/* work-section start */
+.work-start h3 {
+	font-size: 28px;
+    padding-bottom: 35px;
+}
+.work-start p {
+	font-size: 13px;
+	line-height: 22px;
+}
+.work-start {
+	padding-top: 112px;
+	/* padding-bottom: 160px; */
+}
+.project-section {
+	margin: 10px 10px;
+}
+/* agenc-part start*/
+
+.agenc-part {
+	padding-top: 110px;
+	text-align: center;
+}
+.agenc-part h3 {
+	font-size: 17px;
+	line-height: 23.26px;
+	padding-top: 8px;
+    padding-bottom: 7px;
+}
+.agenc-part-two {
+	padding-top: 69px;
+	text-align: center;
+}
+.agenc-part-two h3 {
+	font-family: 'Inter', sans-serif;
+	font-weight: 700;
+	font-size: 17px;
+	line-height: 23.26px;
+	padding-top: 8px;
+    padding-bottom: 7px;
+}
+.agenc-part.photo {
+	margin: 0px 10px;
+}
+.client-text h3 {
+	font-size: 27px;
+}
+.client-talk {
+	margin: 10px 10px;
+}
+/* contact section css */
+#contact-us {
+	padding-top: 61px;
+}
+.about-text h3{
+	font-size: 29px;
+	line-height: 38px;
+	padding-bottom: 14px;
+	text-align: center;
+}
+.about-text p {
+	font-size: 13px;
+	line-height: 26px;
+	text-align: center;
+    margin: 0px 10px;
+}
+.about-text p span {
+	padding-bottom: 42px;
+}
+.contact-from h3 {
+	font-size: 25px;
+	line-height: 82px;
+	padding-bottom: 20px;
+}
+.form-item input {
+	width: 235px;
+}
+.form-btn button {
+	padding: 12px 15px;
+	margin-bottom: 40px;
+	font-size: 13px;
+	margin-left: 48px;
+	margin-top: 10px;
+}
+/* footer top */
+.footer-left {
+	margin: 0px 10px;
+}
+.footer-left img{
+    width: 30%;
+}
+.footer-left p {
+	margin-top: 9px;
+	line-height: 22px;
+}
+.footer-left-one h3 {
+	padding-top: 55px;
+}
+.footer-left-one h3 {
+	text-align: center;
+}
+.footer-left-one p {
+	padding-top: 24px;
+	line-height: 24px;
+	text-align: center;
+}
+/* last footer-secion */
+.last p {
+	padding-top: 12px;
+	font-size: 13px;
+}
+}
